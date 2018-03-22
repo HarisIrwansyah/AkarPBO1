@@ -10,5 +10,17 @@ package akarpbo1;
  * @author ZACKUIN
  */
 public class AkarTanaman {
+    String nama;
+    String JenisAkar;
+    String PanjangAkar;
+    String JumlahAkar;
+    String KedalamanAkar;
     
+    void CaraTumbuh(){
+        System.out.println("Nama Tanaman   : "+nama);
+        System.out.println("Jenis Akar     : "+JenisAkar);
+        System.out.println("Panjang Akar   : "+PanjangAkar);
+        System.out.println("Jumlah Akar    : "+JumlahAkar);
+        System.out.println("Kedalaman Akar : "+KedalamanAkar);
+    }
 }
