@@ -22,5 +22,7 @@ public class AkarTanaman {
         System.out.println("Panjang Akar   : "+PanjangAkar);
         System.out.println("Jumlah Akar    : "+JumlahAkar);
         System.out.println("Kedalaman Akar : "+KedalamanAkar);
+        System.out.println("");
+        
     }
 }
