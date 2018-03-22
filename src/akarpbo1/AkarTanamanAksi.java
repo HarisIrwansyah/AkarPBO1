@@ -11,7 +11,9 @@ package akarpbo1;
  */
 public class AkarTanamanAksi {
     public static void main(String[] args) {
-        
+        AkarTanaman Kacang = new AkarTanaman();
+        AkarTanaman Singkong = new AkarTanaman();
+        AkarTanaman Mangga = new AkarTanaman();
     }
     
 }
