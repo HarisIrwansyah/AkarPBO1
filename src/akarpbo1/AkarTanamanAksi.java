@@ -19,6 +19,8 @@ public class AkarTanamanAksi {
             Kacang.JumlahAkar="Bercabang";
             Kacang.KedalamanAkar="60 Cm";
             
+            Kacang.CaraTumbuh();
+            
         AkarTanaman Singkong = new AkarTanaman();
             
             Singkong.nama="Singkong/Ubi Jalar";
@@ -27,6 +29,8 @@ public class AkarTanamanAksi {
             Singkong.JumlahAkar="Bercabang Banyak";
             Singkong.KedalamanAkar="50 - 80 Cm";
             
+            Singkong.CaraTumbuh();
+            
         AkarTanaman Mangga = new AkarTanaman();
         
             Mangga.nama="Pohon Mangga Madu";
@@ -34,6 +38,8 @@ public class AkarTanamanAksi {
             Mangga.PanjangAkar="6 Meter";
             Mangga.JumlahAkar="Bercabang Sedikit";
             Mangga.KedalamanAkar="3 - 7 Meter";
+            
+            Mangga.CaraTumbuh();
     }
     
 }
